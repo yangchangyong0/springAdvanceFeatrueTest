@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springAdvanceFeatrueTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springAwareTest.war">
+      <element id="artifact" artifact-name="springAdvanceFeatrueTest:war exploded" />
+    </root>
+  </artifact>
+</component>
